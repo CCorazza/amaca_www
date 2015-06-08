@@ -342,6 +342,8 @@ ul.banner-social-buttons {
 
 footer {
     padding: 50px 0;
+    background-color: #000;
+    color: #fff;
 }
 
 footer p {
@@ -386,3 +388,16 @@ body {
     background-size: cover;
     -o-background-size: cover;
 }
+
+/* MailChimp SignUp Form*/
+#mc_embed_signup {
+}
+
+#mc_embed_signup_scroll{
+
+}
+
+#contact {
+    padding-top: 0;
+}
+
